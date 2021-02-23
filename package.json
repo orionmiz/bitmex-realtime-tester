@@ -11,6 +11,7 @@
   "type": "module",
   "description": "",
   "dependencies": {
+    "axios": "^0.21.1",
     "moment": "^2.29.1",
     "tulind": "^0.8.18",
     "websocket": "^1.0.33"
